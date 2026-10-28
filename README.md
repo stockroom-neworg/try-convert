@@ -14,4 +14,4 @@ sde
 sdet 2 3
 veracode policy12
 with test 2fh
-safe to deploy
+safe to deploy dns
